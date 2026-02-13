@@ -14,10 +14,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/farahbenslama" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farahbenslama" height="30" width="40" />
-  </a>
-  <a href="farah.ben-slama@etu.univ-lyon1.fr " target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email Me" height="30" width="40" />
-  </a>
 </p>
 
 
