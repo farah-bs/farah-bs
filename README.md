@@ -6,14 +6,20 @@
 
 - 🌱 I’m currently learning **LangChain, LangGraph & LangSmith**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q_V1OdDxEgYr0ZggzvcxR7-XTcj7wQB5/view?usp=drive_link](https://drive.google.com/file/d/1q_V1OdDxEgYr0ZggzvcxR7-XTcj7wQB5/view?usp=drive_link)
+- 📄 Know about my experiences: [Résumé](https://drive.google.com/file/d/1q_V1OdDxEgYr0ZggzvcxR7-XTcj7wQB5/view?usp=drive_link)
 
 - ⚡ Fun fact **I play 🎸 Acoustic Guitar, 🎸 Electric Guitar, 🎹 Piano, and 🎵 Harmonica**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/farahbenslama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farahbenslama" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/farahbenslama" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farahbenslama" height="30" width="40" />
+  </a>
+  <a href="farah.ben-slama@etu.univ-lyon1.fr " target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email Me" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages & Tools</h3>
 
