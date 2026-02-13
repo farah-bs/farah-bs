@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farah</h1>
-<h3 align="center">Computer Engineering student | AI & ML researcher | Passionate about building intelligent and interactive systems</h3>
+<h3 align="center">Computer Engineering student | AI & ML researcher </h3>
+<p align="center">Passionate about building intelligent and interactive systems</p>
 
 
 - 🔭 I’m currently working on **ML applications on genomics data @bioMérieux**
