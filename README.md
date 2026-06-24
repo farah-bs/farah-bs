@@ -14,8 +14,6 @@ I also founded and run [HER Innovation Lab](https://her-innovationlab.com/), a w
 
 Before that, I did a research internship at LIRIS lab on algorithmic reasoning in LLMs, which led to a paper published at RJCIA 2025 and on arXiv (2026).
 
----
-
 ### What I work with
 
 **Languages**
@@ -67,8 +65,6 @@ Before that, I did a research internship at LIRIS lab on algorithmic reasoning i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/>
 </p>
 
----
-
 ### A few things I have shipped
 
 - Genomic embedding pipelines on HPC infrastructure, with controlled mutation diagnostics and Levenshtein-based quality analysis
@@ -76,12 +72,9 @@ Before that, I did a research internship at LIRIS lab on algorithmic reasoning i
 - LLM agents and RAG systems for client projects at HER Innovation Lab
 - XGBoost probing classifiers on pooled genomic foundation model embeddings with UMAP visualization
 
----
 
 ### Outside the code
 
 I play acoustic guitar, electric guitar, piano and harmonica. I have lived across three countries and I am always either reading something about cognition, or trying to understand why a model does what it does.
-
----
 
 *Currently open to AI/ML engineering roles and research collaborations.*
